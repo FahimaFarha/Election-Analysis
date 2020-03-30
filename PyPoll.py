@@ -108,16 +108,5 @@ with open(file_to_save, "w") as txt_file:
 #Close the file
 
 
-
-
-
-
-
-
-
-
-
-
-
 #Close the file.
 #election_data.close()
