@@ -154,6 +154,5 @@ with open(file_to_save, "w") as txt_file:
 
     txt_file.write(winning_candidate_summary)
 
-
 #Close the file.
-#election_data.close()
+election_data.close()
